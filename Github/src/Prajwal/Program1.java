@@ -9,5 +9,10 @@ public class Program1 {
 	public void method() {
 	
 		System.out.println("code pushed by AyyappaNaga");
+
 	}
+	public void vinodRam() {
+		System.out.println("Code pushed by Vinod");
+	}
+	
 }
