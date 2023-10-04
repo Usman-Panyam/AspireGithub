@@ -5,11 +5,15 @@ public class Program1 {
 		System.out.println("code pushed by prajwal");
 
 
+
 		System.out.println("code by Amruth");
 		//code edited by thejas
 
+
 		
 	}
+	
+
 	
 	public void method() {
 	
