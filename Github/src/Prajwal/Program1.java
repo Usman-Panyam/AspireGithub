@@ -17,5 +17,7 @@ public class Program1 {
 	public void vinodRam() {
 		System.out.println("Code pushed by Vinod");
 	}
-	
+	public void usman()
+	{
+		System.out.println("Code pushed by Usman);
 }
