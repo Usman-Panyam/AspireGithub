@@ -19,5 +19,6 @@ public class Program1 {
 	}
 	public void usman()
 	{
-		System.out.println("Code pushed by Usman);
+		System.out.println("Code pushed by Usman");
+	}
 }
