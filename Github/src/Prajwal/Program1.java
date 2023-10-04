@@ -19,5 +19,10 @@ public class Program1 {
 	public void vinodRam() {
 		System.out.println("Code pushed by Vinod");
 	}
-	
+
+	public void t1()
+	{
+		System.out.println("code pushed by Trisulam");
+	}
+
 }
